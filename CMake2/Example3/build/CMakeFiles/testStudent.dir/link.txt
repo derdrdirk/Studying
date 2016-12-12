@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -O3 -DNDEBUG -dynamiclib -Wl,-headerpad_max_install_names  -o libtestStudent.dylib -install_name @rpath/libtestStudent.dylib CMakeFiles/testStudent.dir/src/Student.cpp.o 

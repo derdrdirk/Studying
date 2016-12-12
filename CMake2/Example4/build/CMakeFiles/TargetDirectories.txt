@@ -1,0 +1,7 @@
+/Users/Knowledge/Developer/Tutorials/CMake2/Example4/build/CMakeFiles/install/local.dir
+/Users/Knowledge/Developer/Tutorials/CMake2/Example4/build/CMakeFiles/install/strip.dir
+/Users/Knowledge/Developer/Tutorials/CMake2/Example4/build/CMakeFiles/install.dir
+/Users/Knowledge/Developer/Tutorials/CMake2/Example4/build/CMakeFiles/list_install_components.dir
+/Users/Knowledge/Developer/Tutorials/CMake2/Example4/build/CMakeFiles/rebuild_cache.dir
+/Users/Knowledge/Developer/Tutorials/CMake2/Example4/build/CMakeFiles/edit_cache.dir
+/Users/Knowledge/Developer/Tutorials/CMake2/Example4/build/CMakeFiles/testStudent.dir
