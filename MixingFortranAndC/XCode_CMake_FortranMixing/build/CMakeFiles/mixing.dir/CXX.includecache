@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Knowledge/Developer/Tutorials/MixingFortranAndC/XCode_CMake_FortranMixing/testC.cpp
+iostream
+-
+

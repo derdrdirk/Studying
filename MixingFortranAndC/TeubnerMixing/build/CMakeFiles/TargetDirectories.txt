@@ -1,0 +1,3 @@
+/Users/Knowledge/Developer/Tutorials/MixingFortranAndC/TeubnerMixing/build/CMakeFiles/rebuild_cache.dir
+/Users/Knowledge/Developer/Tutorials/MixingFortranAndC/TeubnerMixing/build/CMakeFiles/edit_cache.dir
+/Users/Knowledge/Developer/Tutorials/MixingFortranAndC/TeubnerMixing/build/CMakeFiles/mixing.dir

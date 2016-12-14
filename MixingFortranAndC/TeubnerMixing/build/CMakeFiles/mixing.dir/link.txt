@@ -1,0 +1,1 @@
+/opt/local/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/mixing.dir/main.cpp.o CMakeFiles/mixing.dir/teubner.f.o  -o mixing -lgfortran -lquadmath -lm 

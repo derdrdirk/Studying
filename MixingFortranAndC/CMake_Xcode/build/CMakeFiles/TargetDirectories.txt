@@ -1,0 +1,3 @@
+/Users/Knowledge/Developer/Tutorials/MixingFortranAndC/CMake_Xcode/build/CMakeFiles/mixing.dir
+/Users/Knowledge/Developer/Tutorials/MixingFortranAndC/CMake_Xcode/build/CMakeFiles/ALL_BUILD.dir
+/Users/Knowledge/Developer/Tutorials/MixingFortranAndC/CMake_Xcode/build/CMakeFiles/ZERO_CHECK.dir
