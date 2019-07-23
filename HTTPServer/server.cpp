@@ -11,7 +11,9 @@ int main()
   sockaddr_in address;
   int addrlen = sizeof(address);
 
-  std::string hello = "Hello from server";
+  // std::string hello = "Hello from server";
+  std::string hello = "HTTP/1.1 200 OK\nContent-Type: text/plain\nContent-Length: 12\n\nHello world!";
+
 
   // Creating socket
   if ((server_fd = socket(AF_INET, SOCK_STREAM, 0 )) == 0)
