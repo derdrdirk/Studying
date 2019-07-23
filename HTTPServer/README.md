@@ -13,6 +13,10 @@ In the *Open Systems Interconnection* (OSI) model *Transmission Control Protocol
 - send datagram to connected server with `send(...)`
 - receive response from server with `read(...)`
 
+# HTTP Server
+To complete the HTTP server we have to have to give the TCP datagram a valid HTTP response:
+`std::string hello = "HTTP/1.1 200 OK\nContent-Type: text/plain\nContent-Length: 12\n\nHello world!";`
+
 ## Lessons
 - convert `string` to `char *` use
 ```
