@@ -1,0 +1,21 @@
+[submodule "serverless-graphql"]
+	path = serverless-graphql
+	url = https://github.com/serverless/serverless-graphql.git
+[submodule "react-fullstack-graphql"]
+	path = react-fullstack-graphql
+	url = https://github.com/graphql-boilerplates/react-fullstack-graphql
+[submodule "fake-s3"]
+	path = fake-s3
+	url = https://github.com/lphoward/fake-s3
+[submodule "cpp-article"]
+	path = cpp-article
+	url = https://bitbucket.org/danielmunoz/cpp-article.git
+[submodule "aws-mobile-appsync-events-starter-react"]
+	path = aws-mobile-appsync-events-starter-react
+	url = https://github.com/aws-samples/aws-mobile-appsync-events-starter-react
+[submodule "aws-amplify-graphql"]
+	path = aws-amplify-graphql
+	url = https://github.com/aws-samples/aws-amplify-graphql
+[submodule "amplify-complex-objects"]
+	path = amplify-complex-objects
+	url = ./amplify-complex-objects/

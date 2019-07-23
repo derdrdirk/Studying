@@ -1,0 +1,38 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-multi-env-20190110181102-authRole",
+            "UnauthRoleArn": "arn:aws:iam::095893941950:role/amplify-multi-env-20190110181102-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::095893941950:role/amplify-multi-env-20190110181102-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-multi-env-20190110181102-deployment",
+            "UnauthRoleName": "amplify-multi-env-20190110181102-unauthRole",
+            "StackName": "amplify-multi-env-20190110181102",
+            "StackId": "arn:aws:cloudformation:eu-west-1:095893941950:stack/amplify-multi-env-20190110181102/b57230d0-14fa-11e9-a95b-066324f10f26"
+        }
+    },
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-multi-env-20190110182302-authRole",
+            "UnauthRoleArn": "arn:aws:iam::685779742307:role/amplify-multi-env-20190110182302-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::685779742307:role/amplify-multi-env-20190110182302-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-multi-env-20190110182302-deployment",
+            "UnauthRoleName": "amplify-multi-env-20190110182302-unauthRole",
+            "StackName": "amplify-multi-env-20190110182302",
+            "StackId": "arn:aws:cloudformation:eu-west-1:685779742307:stack/amplify-multi-env-20190110182302/628db900-14fc-11e9-a371-062647984902"
+        }
+    },
+    "dirk": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-multi-env-20190110183142-authRole",
+            "UnauthRoleArn": "arn:aws:iam::037641059503:role/amplify-multi-env-20190110183142-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::037641059503:role/amplify-multi-env-20190110183142-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-multi-env-20190110183142-deployment",
+            "UnauthRoleName": "amplify-multi-env-20190110183142-unauthRole",
+            "StackName": "amplify-multi-env-20190110183142",
+            "StackId": "arn:aws:cloudformation:eu-west-1:037641059503:stack/amplify-multi-env-20190110183142/9887aa60-14fd-11e9-b90f-028618ba0c7c"
+        }
+    }
+}
