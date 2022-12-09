@@ -3,6 +3,6 @@
     "arraybuffer-base64": "^1.0.0",
     "axios": "^0.18.0",
     "btoa-atob": "^0.1.2",
-    "express": "^4.16.3"
+    "express": "^4.17.3"
   }
 }
